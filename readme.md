@@ -55,6 +55,9 @@
 | [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |
 | [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
 | [Avataaars](https://avataaars.com/)                                                                      | Free sketch library of avatars illustrations by Pablo Stanley      |
+| [Draw Kit](https://www.drawkit.io/)                                                             | Free Illustrations                                |
+| [Freepik](https://stories.freepik.com/)                                                             | A Free Set of Illustrations                                |
+| [Many Pixels](https://www.manypixels.co/how-it-works/)                                                             | A Set of Illustrations                                |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
